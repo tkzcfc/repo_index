@@ -8,24 +8,30 @@ https://github.com/memononen/fontstash 使用stb_truetype将字体按需渲染�
 
 https://github.com/kornelski/pngquant Png压缩工具
 
+
+https://github.com/RandyGaul/ImpulseEngine 2D物理引擎实现
+
+```
+
+
+渲染
+
+```
+
 https://github.com/bkaradzic/bgfx
 
-```
+基于物理渲染
+https://github.com/sergcpp/Ray
 
+软渲染：
+  https://github.com/skywind3000/mini3d
+  https://github.com/zhanghuanzj/3DRender
 
-软渲染
+  多线程实现opengl软渲染API
+  https://github.com/h0MER247/swGL
 
-```
-
-https://github.com/skywind3000/mini3d
-
-多线程实现opengl软渲染API
-https://github.com/h0MER247/swGL
-
-opengl软渲染
-https://github.com/rswinkle/PortableGL
-
-https://github.com/zhanghuanzj/3DRender
+  opengl软渲染
+  https://github.com/rswinkle/PortableGL
 
 ```
 
@@ -50,6 +56,15 @@ https://github.com/kikito/bump.lua
 
 麻将算法
 https://github.com/zhangshiqian1214/mahjong-logic
+
+lua写的一个文本编辑器
+https://github.com/lite-xl/lite-xl
+
+luajit反编译
+https://github.com/Aussiemon/ljd
+
+服务器引擎
+https://github.com/xiyoo0812/quanta
 
 ```
 
@@ -109,6 +124,18 @@ https://github.com/gabime/spdlog
 pb2json
 https://github.com/shafreeck/pb2json
 
+xlsx 文件编辑
+https://github.com/tfussell/xlnt
+
+压缩算法
+https://github.com/lz4/lz4
+
+跨平台钩子函数实现
+https://github.com/kubo/plthook
+
+RDP
+https://github.com/FreeRDP/FreeRDP
+
 ```
 
 流媒体
@@ -123,5 +150,14 @@ html渲染
 ```
 
 https://github.com/ultralight-ux/Ultralight
+使用它rust实现浏览器
+https://github.com/servo/servo
+
+```
+
+rust
+```
+获取系统文字信息
+https://github.com/alacritty/crossfont
 
 ```
