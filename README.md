@@ -11,7 +11,14 @@ https://github.com/kornelski/pngquant Png压缩工具
 
 https://github.com/RandyGaul/ImpulseEngine 2D物理引擎实现
 
+GUI
+```
+
 https://github.com/Jugilus/JugimapFramework 跨引擎GUI
+
+https://github.com/idea4good/GuiLite
+
+```
 
 字体
 ```
@@ -36,6 +43,9 @@ https://github.com/Mrjingfu/MyCocos2dxGame
 https://github.com/wzhengsen/StarryX
 朵拉计划，特别超稀有版
 https://github.com/IppClub/Dora-SSR
+
+cocos2dx wasm
+https://github.com/WuJiayiSH/cocos2d-x
 
 ```
 
@@ -112,6 +122,9 @@ https://github.com/xiyoo0812/quanta
 love 各种扩展
 https://github.com/1bardesign/batteries
 
+六边形地图
+https://github.com/zhandouxiaojiji/lua-hex-grid
+
 ```
 
 
@@ -137,6 +150,20 @@ https://github.com/time-killer-games/libfiledialogs
 
 ```
 
+C/C++单头文件
+```
+https://github.com/nothings/stb
+https://github.com/RandyGaul/cute_headers
+https://github.com/nothings/single_file_libs
+
+加/解码 json解析 多线程调度 webserver
+https://github.com/vurtun/lib
+
+最小跨平台独立 C 头文件
+https://github.com/floooh/sokol
+
+```
+
 C/C++
 ```
 
@@ -148,14 +175,6 @@ https://github.com/mackron/miniaudio
 tcc
 https://github.com/TinyCC/tinycc
 
-
-单头文件工具
-https://github.com/RandyGaul/cute_headers
-https://github.com/nothings/single_file_libs
-https://github.com/vurtun/lib     加/解码 json解析 多线程调度 webserver
-
-最小跨平台独立 C 头文件
-https://github.com/floooh/sokol
 
 控制台花式打印表格
 https://github.com/p-ranav/tabulate
@@ -169,6 +188,8 @@ https://github.com/emilk/loguru
 
 pb2json
 https://github.com/shafreeck/pb2json
+json字符串和c++结构体之间互相转换
+https://github.com/xyz347/x2struct
 
 xlsx 文件编辑
 https://github.com/tfussell/xlnt
@@ -179,10 +200,6 @@ https://github.com/lz4/lz4
 跨平台钩子函数实现
 https://github.com/kubo/plthook
 
-RDP
-https://github.com/FreeRDP/FreeRDP
-跨平台远程访问
-https://github.com/smasherprog/rat_lite
 
 web工具包
 https://github.com/emweb/wt
@@ -200,6 +217,11 @@ httplib
 https://github.com/yhirose/cpp-httplib
 http框架
 https://github.com/qicosmos/cinatra
+http服务器
+https://github.com/xmh0511/xfinal
+
+文件抽象库
+https://github.com/icculus/physfs
 
 运行时编译C++
 https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus
@@ -210,7 +232,36 @@ https://github.com/xtaci/algorithms
 windows文本渲染
 https://github.com/shaovoon/outline-text
 
+帧性能分析器
+https://github.com/wolfpld/tracy
+
+屏幕捕捉
+https://github.com/xland/ScreenCapture
+
+安卓全局代理
+https://github.com/madeye/proxydroid
+
+多进程共享内存
+https://github.com/DGuco/shmqueue
+
+使用 C++ 编写的动态 AABB 树
+https://github.com/lohedges/aabbcc
+
 ```
+
+远程
+```
+
+https://github.com/dchapyshev/aspia
+
+RDP
+https://github.com/FreeRDP/FreeRDP
+
+跨平台远程访问
+https://github.com/smasherprog/rat_lite
+
+```
+
 
 流媒体
 ```
