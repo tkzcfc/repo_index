@@ -11,6 +11,42 @@ https://github.com/kornelski/pngquant Png压缩工具
 
 https://github.com/RandyGaul/ImpulseEngine 2D物理引擎实现
 
+https://github.com/Jugilus/JugimapFramework 跨引擎GUI
+
+字体
+```
+轻量字体
+https://github.com/RichStrong/tiny_font 
+图标字体
+https://github.com/juliettef/IconFontCppHeaders
+
+```
+
+
+axmol
+```
+阿拉伯文字渲染
+https://github.com/DelinWorks/arabic-text-renderer-cpp-axmol
+
+视差滚动
+https://github.com/danialias/InfiniteScrollNode
+
+https://github.com/solan-solan/HeightMap
+https://github.com/Mrjingfu/MyCocos2dxGame
+https://github.com/wzhengsen/StarryX
+朵拉计划，特别超稀有版
+https://github.com/IppClub/Dora-SSR
+
+```
+
+网络同步
+```
+网络同步，游戏回滚
+https://github.com/pond3r/ggpo
+
+
+```
+
 ```
 
 
@@ -20,12 +56,17 @@ https://github.com/RandyGaul/ImpulseEngine 2D物理引擎实现
 
 https://github.com/bkaradzic/bgfx
 
+2d图形
+https://github.com/google/skia
+https://github.com/memononen/nanovg
+
 基于物理渲染
 https://github.com/sergcpp/Ray
 
 软渲染：
   https://github.com/skywind3000/mini3d
   https://github.com/zhanghuanzj/3DRender
+  https://github.com/keith2018/SoftGLRender
 
   多线程实现opengl软渲染API
   https://github.com/h0MER247/swGL
@@ -39,6 +80,8 @@ https://github.com/sergcpp/Ray
 
 Lua相关库
 ```
+
+https://github.com/TypeScriptToLua/lua-wasm-bindings
 
 https://github.com/iwiniwin/LuaKit
 
@@ -66,6 +109,9 @@ https://github.com/Aussiemon/ljd
 服务器引擎
 https://github.com/xiyoo0812/quanta
 
+love 各种扩展
+https://github.com/1bardesign/batteries
+
 ```
 
 
@@ -86,6 +132,9 @@ https://github.com/epezent/implot
 节点编辑器
 https://github.com/thedmd/imgui-node-editor
 
+文件对话框
+https://github.com/time-killer-games/libfiledialogs
+
 ```
 
 C/C++
@@ -99,10 +148,6 @@ https://github.com/mackron/miniaudio
 tcc
 https://github.com/TinyCC/tinycc
 
-http服务器
-https://github.com/civetweb/civetweb
-嵌入式 Web 服务器
-https://github.com/cesanta/mongoose
 
 单头文件工具
 https://github.com/RandyGaul/cute_headers
@@ -120,6 +165,7 @@ https://github.com/Taywee/args
 
 日志库
 https://github.com/gabime/spdlog
+https://github.com/emilk/loguru
 
 pb2json
 https://github.com/shafreeck/pb2json
@@ -135,6 +181,34 @@ https://github.com/kubo/plthook
 
 RDP
 https://github.com/FreeRDP/FreeRDP
+跨平台远程访问
+https://github.com/smasherprog/rat_lite
+
+web工具包
+https://github.com/emweb/wt
+
+基于libuv的skynet移植
+https://github.com/zero-rp/ZNet
+
+http服务器
+https://github.com/civetweb/civetweb
+嵌入式 Web 服务器
+https://github.com/cesanta/mongoose
+httpserver
+https://github.com/awwit/httpserver
+httplib
+https://github.com/yhirose/cpp-httplib
+http框架
+https://github.com/qicosmos/cinatra
+
+运行时编译C++
+https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus
+
+C++各种算法实现
+https://github.com/xtaci/algorithms
+
+windows文本渲染
+https://github.com/shaovoon/outline-text
 
 ```
 
@@ -152,6 +226,8 @@ html渲染
 https://github.com/ultralight-ux/Ultralight
 使用它rust实现浏览器
 https://github.com/servo/servo
+C/C++实现浏览器
+https://github.com/LadybirdBrowser/ladybird
 
 ```
 
