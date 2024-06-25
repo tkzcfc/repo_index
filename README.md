@@ -272,6 +272,9 @@ https://github.com/smasherprog/rat_lite
 https://github.com/ZLMediaKit/ZLMediaKit
 https://github.com/ZLMediaKit/ZLToolKit
 
+安卓RTC播放器
+https://github.com/leo94666/RTCPlayer
+
 ```
 
 html渲染
@@ -289,5 +292,12 @@ rust
 ```
 获取系统文字信息
 https://github.com/alacritty/crossfont
+
+```
+
+Android
+```
+Android自动战斗
+https://github.com/Fate-Grand-Automata/FGA
 
 ```
