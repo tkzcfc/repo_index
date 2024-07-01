@@ -80,6 +80,10 @@ https://github.com/sergcpp/Ray
   opengl软渲染
   https://github.com/rswinkle/PortableGL
 
+
+声音转颜色
+https://github.com/cnlohr/colorchord
+
 ```
 
 
