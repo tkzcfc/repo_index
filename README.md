@@ -22,6 +22,13 @@ https://github.com/idea4good/GuiLite
 
 ```
 
+Flutter/ffmpeg
+```
+https://github.com/qq326646683/wenshi_android   ffmpeg解码 Flutter
+
+```
+
+
 字体
 ```
 轻量字体
