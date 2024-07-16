@@ -11,6 +11,9 @@ https://github.com/kornelski/pngquant Png压缩工具
 
 https://github.com/RandyGaul/ImpulseEngine 2D物理引擎实现
 
+https://github.com/libgdx/libgdx Java引擎
+https://github.com/kotcrab/vis-ui libgdx UI
+
 ```
 
 GUI
