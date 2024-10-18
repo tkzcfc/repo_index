@@ -266,6 +266,9 @@ https://github.com/DGuco/shmqueue
 使用 C++ 编写的动态 AABB 树
 https://github.com/lohedges/aabbcc
 
+字符串处理utf8 utf16转换
+https://github.com/simdutf/simdutf
+
 ```
 
 远程
