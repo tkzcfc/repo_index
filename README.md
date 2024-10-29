@@ -55,6 +55,9 @@ https://github.com/RichStrong/tiny_font
 https://github.com/juliettef/IconFontCppHeaders
 像素字体
 https://github.com/SolidZORO/zpix-pixel-font
+全字体
+https://github.com/satbyy/go-noto-universal?tab=readme-ov-file#regional-fonts
+
 ```
 
 
