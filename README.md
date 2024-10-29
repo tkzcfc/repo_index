@@ -37,6 +37,7 @@ https://github.com/Jugilus/JugimapFramework 跨引擎GUI
 
 https://github.com/idea4good/GuiLite
 
+
 ```
 
 Flutter/ffmpeg
@@ -308,12 +309,18 @@ https://github.com/servo/servo
 C/C++实现浏览器
 https://github.com/LadybirdBrowser/ladybird
 
+html渲染
+https://github.com/bigfatbrowncat/nanohtml
+
 ```
 
 rust
 ```
 获取系统文字信息
 https://github.com/alacritty/crossfont
+
+leptos使用示例
+https://github.com/Synphonyte/leptos-use
 
 ```
 
