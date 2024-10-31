@@ -252,6 +252,8 @@ https://github.com/xmh0511/xfinal
 文件抽象库
 https://github.com/icculus/physfs
 
+https://github.com/nextgeniuspro/vfspp
+
 运行时编译C++
 https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus
 
