@@ -340,3 +340,15 @@ qt
 ```
 https://github.com/muziing/PyQt_practice Qt各种例子
 ```
+
+下载
+```
+
+
+m3u8下载
+https://github.com/caorushizi/mediago
+
+flutter+go实现的下载器
+https://github.com/GopeedLab/gopeed
+
+```
