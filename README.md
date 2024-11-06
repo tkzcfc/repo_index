@@ -201,6 +201,9 @@ https://github.com/miguelmartin75/anax
 获取变量、类型、函数、宏和枚举的名称
 https://github.com/Neargye/nameof
 
+返回结果用类似rustresult包裹
+https://github.com/ned14/outcome
+
 ```
 
 C/C++
