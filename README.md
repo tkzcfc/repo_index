@@ -204,6 +204,9 @@ https://github.com/Neargye/nameof
 返回结果用类似rustresult包裹
 https://github.com/ned14/outcome
 
+C++ stl各种基础库实现
+https://github.com/bkaradzic/bx
+
 ```
 
 C/C++
