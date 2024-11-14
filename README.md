@@ -259,7 +259,7 @@ httpserver
 https://github.com/awwit/httpserver
 httplib
 https://github.com/yhirose/cpp-httplib
-http框架
+http框架(C++20协程)
 https://github.com/qicosmos/cinatra
 http服务器
 https://github.com/xmh0511/xfinal
