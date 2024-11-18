@@ -46,6 +46,9 @@ https://github.com/Jugilus/JugimapFramework 跨引擎GUI
 
 https://github.com/idea4good/GuiLite
 
+嵌入式图形库GUI
+https://github.com/lvgl/lvgl
+
 
 ```
 
