@@ -10,6 +10,8 @@ https://github.com/azurlane-doujin/AzurLaneSpineCharacterDecoder
 
 图片放大变清晰
 https://github.com/nagadomi/waifu2x
+VR视频转换
+https://github.com/nagadomi/nunif
 
 ```
 
