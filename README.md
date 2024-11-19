@@ -8,6 +8,9 @@ https://github.com/Sysinternals/Procmon-for-Linux
 spine二进制转json
 https://github.com/azurlane-doujin/AzurLaneSpineCharacterDecoder
 
+图片放大变清晰
+https://github.com/nagadomi/waifu2x
+
 ```
 
 
