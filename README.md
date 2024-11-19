@@ -5,6 +5,9 @@
 https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
 https://github.com/Sysinternals/Procmon-for-Linux
 
+spine二进制转json
+https://github.com/azurlane-doujin/AzurLaneSpineCharacterDecoder
+
 ```
 
 
