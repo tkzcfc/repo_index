@@ -98,6 +98,9 @@ https://github.com/IppClub/Dora-SSR
 cocos2dx wasm
 https://github.com/WuJiayiSH/cocos2d-x
 
+手势识别
+https://github.com/danialias/axmol-gesture-recognizers
+
 ```
 
 网络同步
