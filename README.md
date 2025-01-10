@@ -15,6 +15,13 @@ https://github.com/nagadomi/nunif
 
 ```
 
+图像识别/AI推理
+```
+
+https://github.com/PaddlePaddle/FastDeploy/blob/develop/README_CN.md
+
+```
+
 
 ```
 
