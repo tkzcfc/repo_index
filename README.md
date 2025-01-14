@@ -321,6 +321,12 @@ https://github.com/lohedges/aabbcc
 字符串处理utf8 utf16转换
 https://github.com/simdutf/simdutf
 
+
+C++信号槽，事件派发
+https://github.com/palacaze/sigslot
+枚举反射
+https://github.com/Neargye/magic_enum
+
 ```
 
 远程
