@@ -406,4 +406,11 @@ https://github.com/imsyy/SPlayer
 
 ```
 
+Cmake
+```
+
+https://github.com/denghe/xx_examples/blob/main/_b_platform/CMakeLists.txt
+
+```
+
 
