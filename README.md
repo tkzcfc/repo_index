@@ -398,3 +398,12 @@ flutter+go实现的下载器
 https://github.com/GopeedLab/gopeed
 
 ```
+
+音乐播放器
+```
+
+https://github.com/imsyy/SPlayer
+
+```
+
+
