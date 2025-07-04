@@ -13,6 +13,9 @@ https://github.com/nagadomi/waifu2x
 VR视频转换
 https://github.com/nagadomi/nunif
 
+进程加速
+https://github.com/game1024/OpenSpeedy
+
 ```
 
 图像识别/AI推理
