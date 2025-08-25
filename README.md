@@ -16,6 +16,12 @@ https://github.com/nagadomi/nunif
 进程加速
 https://github.com/game1024/OpenSpeedy
 
+让C和Java一样 一次构建,在任何系统上运行
+https://github.com/jart/cosmopolitan
+
+Linux上运行Windows APP
+https://github.com/winapps-org/winapps
+
 ```
 
 图像识别/AI推理
