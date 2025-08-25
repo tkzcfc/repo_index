@@ -336,6 +336,10 @@ https://github.com/palacaze/sigslot
 枚举反射
 https://github.com/Neargye/magic_enum
 
+
+单头文件数学库
+https://github.com/HandmadeMath/HandmadeMath
+
 ```
 
 远程
