@@ -25,7 +25,7 @@ https://github.com/winapps-org/winapps
 版本控制软件（svn git）可视化
 https://github.com/acaudwell/Gource
 
-图片压缩格式
+一种新的图片压缩格式
 https://github.com/ENDESGA/PEP
 
 ```
