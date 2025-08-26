@@ -27,6 +27,10 @@ https://github.com/acaudwell/Gource
 
 一种新的图片压缩格式
 https://github.com/ENDESGA/PEP
+https://github.com/phoboslab/qoi
+
+单头文件实现视频解码
+https://github.com/phoboslab/pl_mpeg
 
 ```
 
