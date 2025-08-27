@@ -31,6 +31,8 @@ https://github.com/phoboslab/qoi
 
 单头文件实现视频解码
 https://github.com/phoboslab/pl_mpeg
+将窗口显示内容推流到网页上显示
+https://github.com/phoboslab/jsmpeg-vnc
 
 ```
 
