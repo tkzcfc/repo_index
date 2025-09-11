@@ -123,6 +123,8 @@ https://github.com/wzhengsen/StarryX
 朵拉计划，特别超稀有版
 https://github.com/IppClub/Dora-SSR
 
+https://github.com/Xrysnow/LuaSTG-x
+
 cocos2dx wasm
 https://github.com/WuJiayiSH/cocos2d-x
 
