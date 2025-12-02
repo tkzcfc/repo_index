@@ -34,6 +34,9 @@ https://github.com/phoboslab/pl_mpeg
 将窗口显示内容推流到网页上显示
 https://github.com/phoboslab/jsmpeg-vnc
 
+矩形打包(生成类似plist图集)
+https://github.com/phoboslab/rectpack
+
 ```
 
 图像识别/AI推理
