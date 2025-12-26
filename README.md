@@ -39,6 +39,17 @@ https://github.com/phoboslab/rectpack
 
 ```
 
+
+```
+
+android 权限申请
+https://github.com/getActivity/XXPermissions
+
+
+```
+
+
+
 图像识别/AI推理
 ```
 
