@@ -223,6 +223,9 @@ https://github.com/1bardesign/batteries
 六边形地图
 https://github.com/zhandouxiaojiji/lua-hex-grid
 
+lua内存检测工具
+https://github.com/yaukeywang/LuaMemorySnapshotDump.git
+
 ```
 
 imgui
