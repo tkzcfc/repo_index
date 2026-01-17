@@ -37,6 +37,9 @@ https://github.com/phoboslab/jsmpeg-vnc
 矩形打包(生成类似plist图集)
 https://github.com/phoboslab/rectpack
 
+多台电脑共用一套键盘和鼠标
+https://github.com/deskflow/deskflow
+
 ```
 
 
