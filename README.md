@@ -150,10 +150,14 @@ https://github.com/danialias/axmol-gesture-recognizers
 
 ```
 
-网络同步
+网络/同步
 ```
 网络同步，游戏回滚
 https://github.com/pond3r/ggpo
+
+p2p windows 
+https://github.com/mmozeiko/derpnet
+
 ```
 
 
