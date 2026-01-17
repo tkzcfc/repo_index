@@ -40,6 +40,9 @@ https://github.com/phoboslab/rectpack
 多台电脑共用一套键盘和鼠标
 https://github.com/deskflow/deskflow
 
+ win10/win11屏幕录制
+https://github.com/mmozeiko/wcap
+
 ```
 
 
