@@ -43,6 +43,9 @@ https://github.com/deskflow/deskflow
  win10/win11屏幕录制
 https://github.com/mmozeiko/wcap
 
+将独立的 MSVC 编译器、链接器和其他工具，以及 Windows SDK 中的头文件/库下载到便携文件夹中，无需安装 Visual Studio
+https://gist.github.com/mmozeiko/7f3162ec2988e81e56d5c4e22cde9977
+
 ```
 
 
