@@ -387,6 +387,9 @@ https://github.com/HandmadeMath/HandmadeMath
 C++数据库操作
 https://github.com/nanodbc/nanodbc
 
+C++嵌入式web服务器(Mongoose 分叉而来)
+https://github.com/civetweb/civetweb
+
 ```
 
 远程
