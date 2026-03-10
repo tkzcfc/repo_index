@@ -384,6 +384,9 @@ https://github.com/Neargye/magic_enum
 单头文件数学库
 https://github.com/HandmadeMath/HandmadeMath
 
+C++数据库操作
+https://github.com/nanodbc/nanodbc
+
 ```
 
 远程
