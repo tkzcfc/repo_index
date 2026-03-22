@@ -114,6 +114,14 @@ https://github.com/idea4good/GuiLite
 嵌入式图形库GUI
 https://github.com/lvgl/lvgl
 
+C++ gui
+https://github.com/cycfi/elements
+
+C++ gui
+https://github.com/sudoevolve/EUI
+
+C++控制台gui
+https://github.com/ArthurSonzogni/FTXUI
 
 ```
 
